@@ -1,4 +1,4 @@
-### Diseño desplegable que muestra un trofeo 🏆
+### Diseño Desplegable que muestra un Trofeo 🏆
 
 - Popup Modal Responsivo usando HTML, CSS y JavaScript.
 - Contiene 3 animaciones de transición.
@@ -7,3 +7,5 @@
 
 Canal de Youtube: [Bedimcode](https://www.youtube.com/c/Bedimcode) <br>
 Video de maquetado: [Responsive Modal Trophy](https://youtu.be/F3ABpPwexCg)
+
+![preview](https://user-images.githubusercontent.com/71857156/138801053-94882c74-ed6c-48b4-8f2b-14ff34b85937.png)
